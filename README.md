@@ -7,7 +7,7 @@ The plugin adds a button in HTML editor toolbar at the last position. When that 
 
 Upon downloading and extracting package, rename its main directory from:
 ```
-plugin-html-editor-buttons
+plugin-html-editor-buttons-master
 ```
 to:
 ```
