@@ -1,7 +1,9 @@
 # plugin-html-editor-buttons
 ##Displaying additional button in HTML editor (Plugin for WebMail version 7.6.8 or higher)
 
-This plugin adds a button in HTML editor toolbar at the last position. When that button is clicked, the dialog is appeared below it. In that dialog “Insert HTML” button is available. After clicking this button a simple HTML with an image will be added in the HTML editor in the cursor position. So it's possible add some controls in the dialog and change inserting HTML if it's nessessary.
+This plugin is intended for developers which want to learn how to add buttons in HTML editor toolbar or add custom content in the message body.
+
+The plugin adds a button in HTML editor toolbar at the last position. When that button is clicked, the dialog appears below, with “Insert HTML” button in it. After clicking this button a simple HTML with an image will be added in the HTML editor at the cursor position. This way you can add any controls in the dialog or change the HTML being inserted.
 
 Upon downloading and extracting package, rename its main directory from:
 ```
